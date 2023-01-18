@@ -27,3 +27,10 @@
 /Users/panitarn/Projects/web-scraper/obj/Debug/net5.0/ref/web-scraper.dll
 /Users/panitarn/Projects/web-scraper/obj/Debug/net5.0/web-scraper.pdb
 /Users/panitarn/Projects/web-scraper/obj/Debug/net5.0/web-scraper.genruntimeconfig.cache
+/Users/panitarn/Projects/web-scraper/bin/Debug/net5.0/ClosedXML.dll
+/Users/panitarn/Projects/web-scraper/bin/Debug/net5.0/DocumentFormat.OpenXml.dll
+/Users/panitarn/Projects/web-scraper/bin/Debug/net5.0/ExcelNumberFormat.dll
+/Users/panitarn/Projects/web-scraper/bin/Debug/net5.0/Irony.dll
+/Users/panitarn/Projects/web-scraper/bin/Debug/net5.0/SixLabors.Fonts.dll
+/Users/panitarn/Projects/web-scraper/bin/Debug/net5.0/System.IO.Packaging.dll
+/Users/panitarn/Projects/web-scraper/bin/Debug/net5.0/XLParser.dll
